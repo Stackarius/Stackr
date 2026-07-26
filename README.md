@@ -2,7 +2,7 @@
 
 <h1 align="center">Stackarius</h1>
 <p align="center">
-  <em>Software engineer • Open-source enthusiast • Building polished, developer-focused apps</em>
+  <em>Software engineer • Website and Cross Platform mobile apps developer • Building polished, developer-focused apps</em>
 </p>
 
 <p align="center">
